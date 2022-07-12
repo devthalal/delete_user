@@ -1,0 +1,1 @@
+{"name":"delete_user","type":"function","source":{"https":"https://github.com/devthalal/delete_user","ssh":"git@github.com:devthalal/delete_user.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","standAloneBlox":false}
